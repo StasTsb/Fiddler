@@ -20,7 +20,7 @@
    <tr>
     <td>How to stop traffic interception
     <br>1. Capturing (button on the bottom left)
-    <td><img src="   " width="340" height="126"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/71c1d6c9ac147479b7bcefef72959cc972fa7b11/screen/2.png" width="340" height="126"></td>
   </tr>
     <tr>
     <td>How to fix nternet disconnection
@@ -29,7 +29,7 @@
     <br>3. Connections
     <br>4. Network Setup
     <br>5. off checkbox "use proxy-server.."
-    <td><img src="   " width="340" height="126"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/71c1d6c9ac147479b7bcefef72959cc972fa7b11/screen/3.png" width="340" height="126"></td>
    </tr>
    <tr>
     <td>How to clear console (hot key)
