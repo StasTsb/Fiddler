@@ -15,7 +15,7 @@
     <br>4. Choose checkbox "Capture HTTPS Connects"
     <br>5. Choose checkbox "Decrypt HTTPS traffic"
     <br>6. Actions > trust root sertificate
-    <td><img src="   " width="340" height="126"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/5b547f04de13433c5935a0ce09e3fdf22b1835c8/screen/1.png" width="340" height="126"></td>
    </tr>
    <tr>
     <td>How to stop traffic interception
