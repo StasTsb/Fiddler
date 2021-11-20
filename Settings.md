@@ -34,7 +34,7 @@
    <tr>
     <td>How to clear console (hot key)
     <br>1. Ctrl + X
-    <td><img src="  " width="340" height="126"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/29b4e4684a265bd798583cce8605e3c54ce1f1de/screen/4.png" width="340" height="126"></td>
   </tr>
     <tr>
     <td>Setting up on android
@@ -45,7 +45,7 @@
     <br>5. Ok
     <br>6. Upload sertificate for mobile (ipv4.fiddler:8888)
     <br>7. Mobile (Proxy: IP/port)
-    <td><img src="  " width="340" height="126"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/29b4e4684a265bd798583cce8605e3c54ce1f1de/screen/5.png" width="340" height="126"></td>
    </tr>
   </tr>
  </table>
