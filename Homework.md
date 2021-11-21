@@ -15,7 +15,7 @@
    <tr>
     <td>How to stop traffic interception
     <br>1. Capturing (button on the bottom left)
-    <td><img src="   " width="340" height="126"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/0e3344b1ffd82fddd99aa759c0133c5cd02b4606/screen/02.png" width="340" height="126"></td>
   </tr>
     <tr>
     <td> Подменить тело запроса чтобы поменялся name которые вы вписали в Postman.
