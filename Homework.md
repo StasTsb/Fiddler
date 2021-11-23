@@ -23,7 +23,7 @@
     <td> В ответе поменять children на neighbors. 
     <br> В ответе поменять значение зарплаты u_salary_1_5_year на другую цифру. 
     <br> В ответе удалить параметр salary. 
-    <td><img src="   " width="340" height="126"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/021fe11808629b341f66ae6148cf1260a0e03188/screen/03.png" width="340" height="126"></td>
    </tr>
    <tr>
     <td>-------------
