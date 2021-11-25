@@ -37,13 +37,13 @@
     <br> В ответе поменять значение параметра daily_food на другую цифру.     
     <br> В ответе переименовать daily_sleep на sleep
     <br> В ответе поменять значение параметра daily_sleep на другую цифру.
-    <td><img src="  " width="340" height="126"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/f61e0296639d854e7bf80b28e95995136f523cbc/screen/05.png" width="340" height="126"></td>
    </tr>
     <tr>
     <td> Подменить url в чтобы в запросе поменялся name которые вы вписали в Postman.
     <br> Подменить url в чтобы в запросе поменялся age которые вы вписали в Postman. 
     <br> Подменить url в чтобы в запросе удалился name которые вы вписали в Postman.
-    <td><img src="  " width="340" height="126"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/f61e0296639d854e7bf80b28e95995136f523cbc/screen/06.png" width="340" height="126"></td>
     <tr>
     <td> В ответе удалить параметр  salary.
     <br> В ответе поменять значение параметра cat на другой json. 
