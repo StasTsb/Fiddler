@@ -30,7 +30,7 @@
     <br> Подменить url в чтобы в запросе поменялся age которые вы вписали в Postman. 
     <br> Подменить url в чтобы в запросе поменялся salary которые вы вписали в Postman. 
     <br> Подменить url в чтобы в запросе удалился weight которые вы вписали в Postman.
-    <td><img src="  " width="340" height="126"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/3fa0266f2da505fec23a4d089b4ac221e4939e70/screen/04.png" width="340" height="126"></td>
   </tr>
     <tr>
     <td> В ответе удалить параметр  daily_food.
