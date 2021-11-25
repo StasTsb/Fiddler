@@ -10,7 +10,7 @@
    <tr>
     <td> Подменить url в чтобы в запросе поменялся name которые вы вписали в Postman.
     <br> Подменить url в чтобы в запросе поменялся age которые вы вписали в Postman.
-    <td><img src="https://github.com/StasTsb/Fiddler/blob/7dfad23cbd0c9392420d95db4da09750c3a54508/screen/01.png" width="280" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/7dfad23cbd0c9392420d95db4da09750c3a54508/screen/01.png" width="580" height="426"></td>
    </tr>
    <tr>
     <td> Подменить тело запроса чтобы поменялся name которые вы вписали в Postman.
