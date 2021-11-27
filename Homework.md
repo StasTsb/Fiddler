@@ -48,19 +48,19 @@
     <td> В ответе удалить параметр  salary.
     <br> В ответе поменять значение параметра cat на другой json. 
     <br> Получить 405 код.
-    <td><img src="  " width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/fd543ec2643085dac69ac273fdfbd6dc1b8af806/screen/07.png" width="480" height="226"></td>
    </tr>
     <tr>
     <td>Подменить url в чтобы в запросе поменялся name которые вы вписали в Postman.
     <br> Подменить url в чтобы в запросе поменялся age которые вы вписали в Postman. 
     <br> Подменить url в чтобы в запросе удалился salary которые вы вписали в Postman.
-    <td><img src="  " width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/fd543ec2643085dac69ac273fdfbd6dc1b8af806/screen/08.png" width="480" height="226"></td>
    </tr>
     <tr>
     <td> В ответе удалить параметр  salary.
     <br> В ответе поменять значение параметра salary на значение текстового типа. 
     <br> Получить 405 код.
-    <td><img src="  " width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/fd543ec2643085dac69ac273fdfbd6dc1b8af806/screen/09.png" width="480" height="226"></td>
    </tr>
     <tr>
     <td> Подменить тело запроса чтобы поменялся age которые вы вписали в Postman. 
@@ -73,7 +73,7 @@
     <br> В ответе поменять значение зарплаты qa_salary_after_1.5_year на другую цифру. 
     <br> В ответе удалить параметр person. 
     <br> В ответе поменять значение параметр person с json на xml.
-    <td><img src="  " width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/fd543ec2643085dac69ac273fdfbd6dc1b8af806/screen/010.png" width="480" height="226"></td>
    </tr>
   </tr>
  </table>
