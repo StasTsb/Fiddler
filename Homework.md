@@ -66,7 +66,7 @@
     <td> Подменить тело запроса чтобы поменялся age которые вы вписали в Postman. 
     <br> Подменить тело запроса чтобы поменялся salary которые вы вписали в Postman. 
     <br> Подменить тело запроса чтобы удалился salary которые вы вписали в Postman.
-    <td><img src="  " width="480" height="226"></td>
+    <td><img src="https://github.com/StasTsb/Fiddler/blob/bffe36d552c66f364c93153d1f1b9d8ae9150c39/screen/09.2.png" width="480" height="226"></td>
    </tr>
     <tr>
     <td> В ответе поменять qa_salary_after_6_months на qa_salary_after_10_months. 
